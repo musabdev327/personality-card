@@ -9,7 +9,8 @@ module.exports = {
       "detail-grey": "#505050",
       "detail-grey-100": "#909090",
       "white": "#FFFFFF",
-      "chip": "#F2F2F2"
+      "chip": "#F2F2F2",
+      "avatar": "#FFCDBA"
     },
     fontFamily: {
       "mont": ["montserrat"]

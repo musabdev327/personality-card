@@ -5,7 +5,7 @@ function ProfileInfo({ userData, ageInYears, gender }) {
   const { first_name, last_name } = userData;
 
   return (
-    <div className="flex justify-center">
+    <div className="flex justify-start">
       <Avatar src={userData.avatar} alt="Profile" />
       <div className="text-center ml-2 self-center">
         <p className="font-bold text-lg">
